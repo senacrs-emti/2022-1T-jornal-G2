@@ -1,0 +1,21 @@
+assets //
+- css //
+-- index.html //
+-- style.css //
+- img //
+--index.html //
+- js //
+--index.html //
+-- script.js //
+contents //
+- index.html //
+includes //
+- index.html //
+- _header.php //
+- _aside.php //
+- _footer.php //
+editoria.php //
+index.php //
+noticia.php //
+organizacao.txt //
+template.html //
