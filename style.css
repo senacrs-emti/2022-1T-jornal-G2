@@ -1,20 +1,16 @@
-*{
-    padding: 0%;
-    margin: 0%;
-    font-family: Arial, Helvetica, sans-serif;
-}
 footer{
-    height: 200px;
-    width: 1280px;
-    background-color: #1D256C;
+    background-color: #1d256c;
+    height: auto;
+}
+#gaveta{
+    width: 50%;
+    margin-left: 40%;
 }
 #parte1{
-    padding-top: 40px;
-    padding-left: 35%;
-    color: #ffffff;
-}
-#parte2{
-    padding-top: 30px;
-    padding-left: 22%;
-    color: #ffffff;   
+    margin-top: 40px;
+    margin-right: 100px;
+    padding-top: 19px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
 }
