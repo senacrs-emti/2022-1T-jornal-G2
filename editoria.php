@@ -3,12 +3,10 @@
 include_once './includes/_header.php';
 // parte do conteudo da pagina
 ?>
-<main>
-    <h1>Editoria</h1>
-</main>
+
 <?php
-// include do aside
-include_once './includes/_aside.php';
+// include do main
+include_once './includes/_main.php';
 
 // include do footer 
 include_once './includes/_footer.php';
