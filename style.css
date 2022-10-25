@@ -1,3 +1,4 @@
+
 footer{
     background-color: #1d256c;
     height: auto;
@@ -13,4 +14,41 @@ footer{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: #ffff;
+}
+    
+
+
+header{
+    background-color:#1E90FF;
+    width: 100%;
+    height: 120px;
+}
+
+header img{
+    width: 70px;
+    height: 65px;
+    padding-left: 290px;
+    padding-top: 25px;
+}
+
+header h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFFF00;
+    position: relative;
+    bottom: 70px;
+    left: 375px;
+}
+
+header input{
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    bottom: 120px;
+    left: 800px;
+    height: 30px;
+    width: 180px;
+
 }
