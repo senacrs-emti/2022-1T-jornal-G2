@@ -1,0 +1,16 @@
+footer{
+    background-color: #1d256c;
+    height: auto;
+}
+#gaveta{
+    width: 50%;
+    margin-left: 40%;
+}
+#parte1{
+    margin-top: 40px;
+    margin-right: 100px;
+    padding-top: 19px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
