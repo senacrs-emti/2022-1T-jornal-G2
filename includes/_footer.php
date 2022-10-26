@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 
     <footer class="row">
@@ -24,3 +25,8 @@
     -->
 </body> 
 </html> 
+=======
+<footer>
+  
+</footer>
+>>>>>>> Stashed changes
