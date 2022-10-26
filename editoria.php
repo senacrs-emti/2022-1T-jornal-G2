@@ -5,8 +5,6 @@ include_once './includes/_header.php';
 ?>
 
 <?php
-// include do main
-include_once './includes/_main.php';
 
 // include do footer 
 include_once './includes/_footer.php';
