@@ -1,14 +1,14 @@
-<<<<<<< Updated upstream
-
 
     <footer class="row">
-        <div class="col-4"><img id="gaveta" src="./img/pp.png" alt=""></div>
+        <div class="col-4">
+            <img id="gaveta" src="./img/gaveta off.png" alt="">
+        </div>
         <div class="col-8"><h1 id="parte1">Produção e  indealização por:<br>
             João Pedro, Leonardo E., Luigi, Emanuel & Cauan T.</h1>
         </div>
     </footer>
 
-
+</div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
@@ -25,8 +25,5 @@
     -->
 </body> 
 </html> 
-=======
-<footer>
-  
-</footer>
->>>>>>> Stashed changes
+
+
