@@ -1,4 +1,5 @@
 <main class="container-fluid">
+  <!-- tudo que estiver dentro desse comentário é o carrousel -->
   <div class="row">
     <div class="col-2"></div>
     <div class="col-8">
@@ -31,4 +32,7 @@
     </div>
     <div class="col-2"></div>
   </div>
+  <!-- tudo que estiver dentro desse comentário é o carrousel -->
+
+
 </main>
