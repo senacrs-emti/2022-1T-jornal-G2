@@ -26,9 +26,14 @@ header input{
     width: 180px;
     margin-top: 5%;
 }
+main #carrouselimg{
+    height: 450px;
+}
 footer{
     background-color: #1E90FF;
-    font-size: %;
+}
+footer #parte1{
+    font-size: 24px;
 }
 #gaveta{
     width: 40%;
