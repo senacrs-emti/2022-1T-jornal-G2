@@ -1,8 +1,17 @@
 <main class="container-fluid">
-  <!-- tudo que estiver dentro desse comentário é o carrousel -->
+
+  <!-- anuncio golpe.net -->
   <div class="row">
-    <div class="col-2"></div>
-    <div class="col-8">
+    <div class="col-1"></div>
+    <div class="golpenet col-10"></div>
+    <div class="col-1"></div>
+  </div>
+  <!-- anuncio golpe.net -->
+
+  <!-- tudo que estiver dentro desse comentário é o carrousel -->
+  <div class="row carrousel0">
+    <div class="col-1"></div>
+    <div class="col-10 carrouselnopadding">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -30,7 +39,7 @@
         </button>
       </div>
     </div>
-    <div class="col-2"></div>
+    <div class="col-1"></div>
   </div>
   <!-- tudo que estiver dentro desse comentário é o carrousel -->
 

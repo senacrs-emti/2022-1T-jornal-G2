@@ -1,4 +1,4 @@
-/* HEADER */
+/* header */
 header{
     background-color:#1E90FF;
     height: auto;
@@ -26,16 +26,41 @@ header input{
     width: 180px;
     margin-top: 5%;
 }
-main #carrouselimg{
-    height: 450px;
+/* header */
+
+/* main */
+main .golpenet{
+    margin-top: 4%;
+    height: 130px;
+    background-color: rgb(2, 97, 2);
 }
+main .carrouselnopadding{
+    padding: 0px;
+}
+main .carrousel0{
+    margin-top: 4%;
+}
+main #carrouselimg{
+    height: 600px;
+}
+/* main */
+
+/* footer */
 footer{
     background-color: #1E90FF;
 }
 footer #parte1{
     font-size: 24px;
 }
+/* footer */
+
+/* miscellaneous */
 #gaveta{
     width: 40%;
     height: auto;
 }
+*{
+    padding: 0px;
+    margin: 0px;
+}
+/* miscellaneous */
