@@ -9,17 +9,40 @@
     <link rel="stylesheet" href="style.css?v=<?php echo date("HmdHis").rand(0,99999)?>">
   </head>
 <body>
-  <div class="container-fluid">
-  <header class="row">
-    <div class="col-3">
+
+
+  <header class="container-fluid">
+    <div class="row">
+    <div class="col-lg-4 text-center mt-2">
       <img src="./img/gaveta off.png" alt="">
     </div>
-    <div class="col-5">
+
+    <div class="col-lg-4 col-12 mt-3">
         <h2>Gaveta <br> Esportiva </h2>
     </div>
-    <div class="col-4">
+
+    <div class="col-lg-4 col-12 text-center mb-3">
         <input type="text" name="" id="" placeholder="Pesquisar">
     </div>
+    </div>
+
+
+    <ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link badge-warning" href="#">Notícias</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link badge-warning" href="#">Artigos de opinião</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link badge-warning" href="#">Crônicas</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link badge-warning">Disabled</a>
+  </li>
+</ul>
+
   </header>
+
 
 

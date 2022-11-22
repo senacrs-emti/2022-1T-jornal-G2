@@ -1,16 +1,17 @@
-
-    <footer class="row">
-        <div class="col-3"></div>
-        <div class="col-3">
+<footer class="container-fluid">
+    <div class="row">
+        <div class="col-lg-3 col-12"></div>
+        <div class="col-lg-3 col-12">
             <img id="gaveta" src="./img/gaveta off.png" alt="">
         </div>
-        <div class="col-3"><h1 id="parte1">Produção e  indealização por:<br>
-            João Pedro, Leonardo E., Luigi, Emanuel & Cauan T.</h1>
+        <div class="col-lg-3 col-12 mt-4"><h1 id="parte1">Produção e  idealização por:<br>
+            João Pedro, Leonardo E., Luigi, Emanuel, Marcelo P. & Cauan T.</h1>
         </div>
-        <div class="col-3"></div>
-    </footer>
+        <div class="col-lg-3 col-12"></div>
+    </div>
+</footer>
 
-</div>
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
