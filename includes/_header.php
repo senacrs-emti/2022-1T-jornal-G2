@@ -13,15 +13,15 @@
 
   <header class="container-fluid">
     <div class="row">
-    <div class="col-lg-4 text-center mt-2">
-      <img src="./img/gaveta off.png" alt="">
+    <div class="col-lg-4 text-center mt-5">
+      <img src="./img/gaveta off2.png" alt="">
     </div>
 
     <div class="col-lg-4 col-12 mt-3">
         <h2>Gaveta <br> Esportiva </h2>
     </div>
 
-    <div class="col-lg-4 col-12 text-center mb-3">
+    <div class="col-lg-4 col-12 text-center mt-5">
         <input type="text" name="" id="" placeholder="Pesquisar">
     </div>
     </div>

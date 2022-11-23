@@ -2,7 +2,7 @@
 
   <!-- anuncio golpe.net -->
   <div class="row">
-    <div class=" imganuncio"><a href="https://www.senacrs.com.br" target="_blank"><img src="assets\IMGs\fecomercio senac img logo.png" alt=""></a></div>
+    <div class=" imganuncio col-lg-12  col-12"><a href="https://www.senacrs.com.br" target="_blank"><img src="assets\IMGs\fecomercio senac img logo.png" alt=""></a></div>
   </div>
   <!-- anuncio golpe.net -->
 
@@ -46,7 +46,7 @@
   <div class="card col-lg-4 col-12 mr-1">
     <img src="assets\IMGs\alonso_acidente_gp_da_belgica_formula_1_2.jpg" class="card-img-top cardimg" alt="...">
     <div class="card-body">
-      <h5 class="card-title"> SEM TÍTULO</h5>
+      <h5 class="card-title">Formula 1</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Essa notícia é inútil</small></p>
     </div>
