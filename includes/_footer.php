@@ -5,7 +5,7 @@
             <img id="gaveta" src="./img/gaveta off.png" alt="">
         </div>
         <div class="col-lg-3 col-12 mt-4"><h1 id="parte1">Produção e  idealização por:<br>
-            João Pedro, Leonardo E., Luigi, Emanuel, Marcelo P. & Cauan T.</h1>
+            <a href="https://github.com/machadodelta">João Pedro</a>, <a href="https://github.com/LED10">Leonardo E.</a>, <a href="https://github.com/LuigiDipp">Luigi</a>, <a href="https://github.com/Expert0ne">Emanuel</a>, <a href="https://github.com/lencol-oxidavel">Marcelo P.</a> & <a href="https://github.com/Cauantodeschini">Cauan T.</a></h1>
         </div>
         <div class="col-lg-3 col-12"></div>
     </div>

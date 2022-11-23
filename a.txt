@@ -1,0 +1,14 @@
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link badge-warning" href="#">Notícias</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link badge-warning" href="#">Artigos de opinião</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link badge-warning" href="#">Crônicas</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link badge-warning">Disabled</a>
+  </li>
+</ul>

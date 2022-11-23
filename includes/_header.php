@@ -26,23 +26,37 @@
     </div>
     </div>
 
-
-    <ul class="nav justify-content-center">
-  <li class="nav-item">
-    <a class="nav-link badge-warning" href="#">Notícias</a>
+<!-- menu com dropdown -->
+    <ul class="nav nav-pills justify-content-center col-lg-12 col-12">
+  <li class="nav-item badge-warning">
+    <a class="nav-link" href="index.php">Main Menu</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link badge-warning" href="#">Artigos de opinião</a>
+  <li class="nav-item dropdown badge-warning">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Notícias</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="IEMRioMajorNews.php">IEM Rio Major 2022</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+    </div>
   </li>
-  <li class="nav-item">
-    <a class="nav-link badge-warning" href="#">Crônicas</a>
+  <li class="nav-item dropdown badge-warning">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Crônicas</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+    </div>
   </li>
-  <li class="nav-item">
-    <a class="nav-link badge-warning">Disabled</a>
+  <li class="nav-item dropdown badge-warning">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Artigos de Opinião</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+    </div>
   </li>
 </ul>
 
   </header>
-
 
 
