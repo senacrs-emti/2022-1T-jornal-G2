@@ -69,3 +69,32 @@ footer #parte1{
     margin: 0px;
 }
 /* miscellaneous */
+
+/* emanuel noticia */
+.emanuelf{
+    margin: 0 25%;
+    color: black;
+    text-align: center;
+    height: 100px;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 0%;
+    margin-bottom: 27px;
+    font-size: 50px;
+}
+.emanuelp{
+    text-align: justify;
+}
+#handebol{
+    height: 50%;;
+    
+}
+.emanuelj{
+    text-align: center;
+}
+
+.emanuelh6{
+    margin-bottom: 1%;
+    font-size: 14px;
+}
+/* emanuel noticia */
