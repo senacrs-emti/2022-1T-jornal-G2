@@ -2,9 +2,7 @@
 
   <!-- anuncio golpe.net -->
   <div class="row">
-    <div class="col-1"></div>
-    <div class="golpenet col-10">Golpe.bet</div>
-    <div class="col-1"></div>
+    <div class=" imganuncio"><a href="https://www.senacrs.com.br" target="_blank"><img src="assets\IMGs\fecomercio senac img logo.png" alt=""></a></div>
   </div>
   <!-- anuncio golpe.net -->
 

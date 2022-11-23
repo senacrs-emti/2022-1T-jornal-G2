@@ -28,11 +28,11 @@ header input{
 /* header */
 
 /* main */
-main .golpenet{
+.imganuncio{
+    margin-left: 28%;
     margin-top: 4%;
-    height: 130px;
-    background-color: rgb(2, 97, 2);
 }
+
 main .carrouselnopadding{
     padding: 0px;
 }
