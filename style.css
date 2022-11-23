@@ -20,7 +20,7 @@ p{
     
 }
 
-img{
+#tite{
     width: 840px;
     height: 540px;
     position: relative;
@@ -29,4 +29,41 @@ img{
 
 .convocados{
     padding-left: 40%;
+    font-size: 17px;
+}
+
+h6{
+    text-align: justify;
+}
+
+#fonte1{
+    padding-left: 375px;
+    font-size: 9px;
+}
+
+h3{
+    font-size: 7px;
+    padding-left: 375px;
+}
+
+.info{
+    padding-left: 450px;
+}
+
+.brasil{
+    width: 575px;
+    height: 400px;
+    position: relative;
+    left: 350px;
+}
+
+#alisson{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    right: 120px;
+}
+
+#sub{
+    font-size: 20px;
 }
