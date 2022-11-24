@@ -5,7 +5,7 @@ include_once './includes/_header.php';
 ?>
 
 <main class="container-fluid">
-    <div class="col-lg-12 col-12 pt-4 pr-5 pl-5 iemriomajor">
+    <div class="col-lg-12 col-12 iemmargin iemriomajor">
         <h1 class="text-center"><strong>IEM Rio Major 2022</strong></h1>
         <h2 class="text-center pb-5">Classificação da Furia</h2>
         <img class="w-100 pb-5" src="assets\IMGs\FURIA_uniforme_novo_u2ezh6c.jpg" alt="">
