@@ -42,7 +42,7 @@
   <li class="nav-item dropdown badge-warning">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Crônicas</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="cronicamarcelo.php">Crônica do Marcelo</a>
       <a class="dropdown-item" href="#">Another action</a>
       <a class="dropdown-item" href="#">Something else here</a>
     </div>
