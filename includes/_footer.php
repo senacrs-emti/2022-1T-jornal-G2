@@ -5,7 +5,7 @@
             <img id="gaveta" src="./img/gaveta off.png" alt="">
         </div>
         <div class="col-lg-3 col-12 mt-4"><h1 id="parte1">Produção e  idealização por:<br>
-            <a href="https://github.com/machadodelta">João Pedro</a>, <a href="https://github.com/LED10">Leonardo E.</a>, <a href="https://github.com/LuigiDipp">Luigi</a>, <a href="https://github.com/Expert0ne">Emanuel</a>, <a href="https://github.com/lencol-oxidavel">Marcelo P.</a> & <a href="https://github.com/Cauantodeschini">Cauan T.</a></h1>
+            <a href="https://github.com/machadodelta" target="_blank">João Pedro</a>, <a href="https://github.com/LED10" target="_blank">Leonardo E.</a>, <a href="https://github.com/LuigiDipp" target="_blank">Luigi</a>, <a href="https://github.com/Expert0ne" target="_blank">Emanuel</a>, <a href="https://github.com/lencol-oxidavel" target="_blank">Marcelo P.</a> & <a href="https://github.com/Cauantodeschini" target="_blank">Cauan T.</a></h1>
         </div>
         <div class="col-lg-3 col-12"></div>
     </div>
