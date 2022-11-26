@@ -96,8 +96,16 @@ footer #parte1{
     padding-right: 15%;
 }
 /* cronica */
+.mcromargin{
+    padding-right: 15%;
+    padding-left: 15%;
+}
 /* cronica */
 
 /* artigo de opinião */
+.mopmargin{
+    padding-left: 15%;
+    padding-right: 15%;
+}
 /* artigo de opinião */
 /* marcelo */
