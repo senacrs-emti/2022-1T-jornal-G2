@@ -36,7 +36,7 @@
     <div class="dropdown-menu">
       <a class="dropdown-item" href="#">Action</a>
       <a class="dropdown-item" href="IEMRioMajorNews.php">IEM Rio Major 2022</a>
-      <a class="dropdown-item" href="#">Something else here</a>
+      <a class="dropdown-item" href="preconvoca.php">Pré-Convocação</a>
     </div>
   </li>
   <li class="nav-item dropdown badge-warning">
@@ -44,13 +44,13 @@
     <div class="dropdown-menu">
       <a class="dropdown-item" href="#">Action</a>
       <a class="dropdown-item" href="#">Another action</a>
-      <a class="dropdown-item" href="#">Something else here</a>
+      <a class="dropdown-item" href="copa.php">Copa do Mundo</a>
     </div>
   </li>
   <li class="nav-item dropdown badge-warning">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Artigos de Opinião</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="artcopa.php">Artigo copa</a>
       <a class="dropdown-item" href="#">Another action</a>
       <a class="dropdown-item" href="#">Something else here</a>
     </div>
