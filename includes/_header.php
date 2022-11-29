@@ -34,7 +34,7 @@
   <li class="nav-item dropdown badge-warning">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Notícias</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="basquete.php">Basquete</a>
       <a class="dropdown-item" href="IEMRioMajorNews.php">IEM Rio Major 2022</a>
 
       <a class="dropdown-item" href="preconvoca.php">Pré-Convocação</a>
