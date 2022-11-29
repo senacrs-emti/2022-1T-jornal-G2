@@ -36,7 +36,12 @@
     <div class="dropdown-menu">
       <a class="dropdown-item" href="#">Action</a>
       <a class="dropdown-item" href="IEMRioMajorNews.php">IEM Rio Major 2022</a>
+
       <a class="dropdown-item" href="preconvoca.php">Pré-Convocação</a>
+
+      <a class="dropdown-item" href="#">Something else here</a>
+      <a class="dropdown-item" href="Convocados.php">Convocados para o Copa do Mundo</a>
+
     </div>
   </li>
   <li class="nav-item dropdown badge-warning">

@@ -2,7 +2,7 @@
 
   <!-- anuncio golpe.net -->
   <div class="row">
-    <div class=" imganuncio col-lg-12  col-12"><a href="https://www.senacrs.com.br" target="_blank"><img src="assets\IMGs\fecomercio senac img logo.png" alt=""></a></div>
+    <div class=" imganuncio col-lg-12 pl-5 pr-5 col-12"><a href="https://www.senacrs.com.br" target="_blank"><img src="assets\IMGs\fecomercio senac img logo.png" alt=""></a></div>
   </div>
   <!-- anuncio golpe.net -->
 

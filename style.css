@@ -108,3 +108,52 @@ footer #parte1{
 
 
 
+/* luigi copa */
+
+#titulo{
+    background-color: black;
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 400px;
+}
+
+#corponoticia{
+    position: relative;
+    left: 400px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+#corpo1{
+    position: relative;
+    left: 400px;
+    font-size: 15px;
+}
+
+#bra1{
+    width: 400px;
+    height: 240px;
+}
+
+#bra2{
+    width: 400px;
+    height: 230px;
+}
+
+#bra3{
+    width: 400px;
+    height: 230px;
+}
+
+#bra4{
+    width: 400px;
+    height: 250px;
+}
+
+#bra5{
+    width: 400px;
+    height: 230px;
+}
+
