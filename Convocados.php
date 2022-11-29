@@ -8,7 +8,7 @@ include_once './includes/_header.php';
     <div class="row col-lg-4 col-12">
         <h3 id="titulo" class="text-center">Lista de convocados para a Copa do Mundo</h3>
         <h6 id="corponoticia"><b>O técnico Tite anunciou nesta segunda-feira, na sede da CBF, no Rio de Janeiro, os 26 jogadores que vão defender
-a seleção brasileira na Copa do Mundo de 2022. A grande surpresa foi a presença do lateral-direito Daniel Alves
+a seleção brasileira na Copa do Mundo de 2022. A grande surpresa foi a presença do lateral-direito, Daniel Alves
 que está no Pumas, do México. O defensor, de 39 anos, havia ficado fora da convocação para os amistosos
 contra Gana e Tunísia, os últimos antes da Copa.</b> <br><br>
 Confira os convocados: </h6>
