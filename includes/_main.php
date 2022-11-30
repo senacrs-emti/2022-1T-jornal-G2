@@ -7,7 +7,7 @@
   <!-- anuncio golpe.net -->
 
   <!-- tudo que estiver dentro desse comentário é o carrousel -->
-  <div class="row carrousel0">
+  <div class="row carrousel0" id="">
     <div class="col-1"></div>
     <div class="col-10 carrouselnopadding">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -24,7 +24,7 @@
             <img src="assets\IMGs\carrossel-copa-do-mundo-2020-3.jpg" id="carrouselimg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="assets\IMGs\alonso_acidente_gp_da_belgica_formula_1_2.jpg" id="carrouselimg" class="d-block w-100" alt="...">
+            <img src="assets\IMGs\alonso_acidente_gp_da_belgica_formula_1_2.jpg (1).png" id="carrouselimg" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
@@ -48,16 +48,15 @@
     <div class="card-body">
       <h5 class="card-title">Formula 1</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Essa notícia é inútil</small></p>
+      <p class="card-text"><small class="text-muted">Essa notícia é útil</small></p>
     </div>
   </div>
   <div class="card col-lg-4 col-12">
-    <a href="convocados.php">
     <img src= "assets\IMGs\carrossel-copa-do-mundo-2020-3.jpg" class="card-img-top cardimg" alt="...">
     <div class="card-body">
       <h5 class="card-title" >Craques da Copa</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Essa notícia é inútil</small></p>
+      <p class="card-text"><small class="text-muted">Essa notícia é útil</small></p>
 </a>
     </div>
   </div>
@@ -66,7 +65,7 @@
     <div class="card-body">
       <h5 class="card-title">SEM TÍTULO 3</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Essa notícia é inútil</small></p>
+      <p class="card-text"><small class="text-muted">Essa notícia é útil</small></p>
     </div>
   </div>
 </div>

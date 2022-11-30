@@ -56,7 +56,7 @@
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Artigos de Opinião</a>
     <div class="dropdown-menu">
       <a class="dropdown-item" href="artcopa.php">Artigo copa</a>
-      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="artigoF1.php">Artigo F1</a>
       <a class="dropdown-item" href="#">Something else here</a>
     </div>
   </li>
