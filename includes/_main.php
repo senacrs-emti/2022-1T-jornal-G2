@@ -24,7 +24,7 @@
             <img src="assets\IMGs\carrossel-copa-do-mundo-2020-3.jpg" id="carrouselimg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="assets\IMGs\alonso_acidente_gp_da_belgica_formula_1_2.jpg (1).png" id="carrouselimg" class="d-block w-100" alt="...">
+            <img src="assets\IMGs\alonso_acidente_gp_da_belgica_formula_1_2.jpg" id="carrouselimg" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-target="#carouselExampleIndicators" data-slide="prev">
