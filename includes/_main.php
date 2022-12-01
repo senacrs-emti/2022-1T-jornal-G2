@@ -63,7 +63,7 @@
   <div class="card col-lg-4 col-12">
     <img src="assets\IMGs\e-sports-campeonato.jpg" class="card-img-top cardimg" alt="...">
     <div class="card-body">
-      <h5 class="card-title">SEM TÍTULO 3</h5>
+      <h5 class="card-title">IEM Rio Major 2022</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Essa notícia é útil</small></p>
     </div>
