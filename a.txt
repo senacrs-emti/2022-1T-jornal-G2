@@ -1,2 +1,0 @@
-Tutoriais para o bootstrap
-center-align = class para deixar as coisas 

@@ -39,9 +39,6 @@ main .carrouselnopadding{
 main .carrousel0{
     margin-top: 4%;
 }
-main #carrouselimg{
-   
-}
 main .cardimg{
     height: 50%;
 }
@@ -98,3 +95,9 @@ footer #parte1{
     font-size: 14px;
 }
 /* emanuel noticia */
+/* emanuel cronica */
+.emanuelmargin{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+/* emanuel cronica */

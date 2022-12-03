@@ -42,7 +42,7 @@
   <li class="nav-item dropdown badge-warning">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Crônicas</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="emanuelcronica.php">Emanuel Crônica</a>
       <a class="dropdown-item" href="#">Another action</a>
       <a class="dropdown-item" href="#">Something else here</a>
     </div>
@@ -50,7 +50,7 @@
   <li class="nav-item dropdown badge-warning">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Artigos de Opinião</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="emanuelartopi.php">Emanuel artigo opinião</a>
       <a class="dropdown-item" href="#">Another action</a>
       <a class="dropdown-item" href="#">Something else here</a>
     </div>
