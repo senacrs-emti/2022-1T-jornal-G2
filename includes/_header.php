@@ -36,10 +36,13 @@
     <div class="dropdown-menu">
       <a class="dropdown-item" href="basquete.php">Basquete</a>
       <a class="dropdown-item" href="IEMRioMajorNews.php">IEM Rio Major 2022</a>
-
       <a class="dropdown-item" href="preconvoca.php">Pré-Convocação</a>
 
+
       <a class="dropdown-item" href="noticiaf1.php">GP do México F1</a>
+
+      <a class="dropdown-item" href="#">Something else here</a>
+
       <a class="dropdown-item" href="Convocados.php">Convocados para o Copa do Mundo</a>
 
     </div>
@@ -57,7 +60,7 @@
     <div class="dropdown-menu">
       <a class="dropdown-item" href="artcopa.php">Artigo copa</a>
       <a class="dropdown-item" href="artigoF1.php">Artigo F1</a>
-      <a class="dropdown-item" href="#">Something else here</a>
+      <a class="dropdown-item" href="marceloop.php">Marcelo</a>
     </div>
   </li>
 </ul>
