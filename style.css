@@ -76,6 +76,44 @@ footer #parte1{
 }
 /* miscellaneous */
 
+
+
+/* marcelo */
+/* noticia */
+.iemriomajor{
+    margin-bottom: 4%;
+}
+.iemp{
+    text-align: justify;
+}
+/* noticia */
+.firtliiem{
+    list-style-type: none;
+}
+.tdiem{
+    border: 1px solid black;
+}
+.iemmargin{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+/* cronica */
+.mcromargin{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+/* cronica */
+
+/* artigo de opinião */
+.mopmargin{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+/* artigo de opinião */
+/* marcelo */
+
+
+
 /* Leo Copa */
 
 #imgcopa{
