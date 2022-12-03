@@ -39,7 +39,7 @@
 
       <a class="dropdown-item" href="preconvoca.php">Pré-Convocação</a>
 
-      <a class="dropdown-item" href="#">Something else here</a>
+      <a class="dropdown-item" href="noticiaf1.php">GP do México F1</a>
       <a class="dropdown-item" href="Convocados.php">Convocados para o Copa do Mundo</a>
 
     </div>
@@ -48,7 +48,7 @@
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Crônicas</a>
     <div class="dropdown-menu">
       <a class="dropdown-item" href="#">Action</a>
-      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="cronicaf1.php">Últimos momentos de Senna</a>
       <a class="dropdown-item" href="copa.php">Copa do Mundo</a>
     </div>
   </li>
