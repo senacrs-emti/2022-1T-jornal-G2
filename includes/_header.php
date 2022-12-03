@@ -46,7 +46,7 @@
   <li class="nav-item dropdown badge-warning">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Crônicas</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="cronicamarcelo.php">Marcelo</a>
+      <a class="dropdown-item" href="cronicamarcelo.php">Cronica de Overwatch</a>
       <a class="dropdown-item" href="cronicaf1.php">Últimos momentos de Senna</a>
       <a class="dropdown-item" href="copa.php">Copa do Mundo</a>
       <a class="dropdown-item" href="emanuelcronica.php">Emanuel Crônica</a>
