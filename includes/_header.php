@@ -60,7 +60,7 @@
     <div class="dropdown-menu">
       <a class="dropdown-item" href="artcopa.php">Artigo copa</a>
       <a class="dropdown-item" href="artigoF1.php">Artigo F1</a>
-      <a class="dropdown-item" href="marceloop.php">Marcelo</a>
+      <a class="dropdown-item" href="marceloop.php">Artigo CS</a>
     </div>
   </li>
 </ul>
