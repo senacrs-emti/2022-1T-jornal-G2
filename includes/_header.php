@@ -35,6 +35,7 @@
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">Notícias</a>
     <div class="dropdown-menu">
       <a class="dropdown-item" href="basquete.php">Basquete</a>
+      <a class="dropdown-item" href="emanuelhandboll.php">Handboll</a>
       <a class="dropdown-item" href="IEMRioMajorNews.php">IEM Rio Major 2022</a>
       <a class="dropdown-item" href="preconvoca.php">Pré-Convocação</a>
       <a class="dropdown-item" href="noticiaf1.php">GP do México F1</a>
@@ -48,6 +49,7 @@
       <a class="dropdown-item" href="cronicamarcelo.php">Marcelo</a>
       <a class="dropdown-item" href="cronicaf1.php">Últimos momentos de Senna</a>
       <a class="dropdown-item" href="copa.php">Copa do Mundo</a>
+      <a class="dropdown-item" href="emanuelcronica.php">Emanuel Crônica</a>
     </div>
   </li>
   <li class="nav-item dropdown badge-warning">
@@ -57,6 +59,7 @@
       <a class="dropdown-item" href="artcopa.php">Artigo copa</a>
       <a class="dropdown-item" href="artigoF1.php">Artigo F1</a>
       <a class="dropdown-item" href="marceloop.php">Artigo CS</a>
+      <a class="dropdown-item" href="emanuelartopi.php">Emanuel artigo opinião</a>
     </div>
   </li>
 </ul>
